@@ -1,6 +1,6 @@
 {
   "name": "dynamic-async-iterable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple asynchronous queue with an async iterator interface, supporting dynamic enqueueing.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -43,10 +43,10 @@
   },
   "homepage": "https://github.com/allemonta/dynamic-async-iterable#readme",
   "devDependencies": {
-    "@tsconfig/node22": "^22.0.1",
-    "@types/node": "^22.15.18",
-    "tsup": "^8.5.0",
-    "tsx": "^4.19.4",
-    "typescript": "^5.8.3"
+    "@tsconfig/node22": "^22.0.5",
+    "@types/node": "^22.19.1",
+    "tsup": "^8.5.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
   }
 }
